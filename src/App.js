@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>
-        react v18
+        react                      v18
       </h1>
     </div>
   );
