@@ -1,0 +1,35 @@
+[33mcommit 974ef5bb33c919761d21f99b5ab7dc88664595bd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Mohammad Vaghar <mohammad.veghar.92@gmail.com>
+Date:   Tue Sep 5 10:50:47 2023 +0330
+
+    Navbar added to my project
+
+[33mcommit 3cf6c00bfa1c94f23bf4cd7268c45422579358c9[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Mohammad Vaghar <mohammad.veghar.92@gmail.com>
+Date:   Mon Sep 4 14:53:36 2023 +0330
+
+    deleting excess files
+
+[33mcommit 09ba2b4a6fd1acb966b6c3471f0950c6ca244332[m
+Author: Mohammad Vaghar <mohammad.veghar.92@gmail.com>
+Date:   Mon Sep 4 02:02:22 2023 +0330
+
+    testing git hub
+
+[33mcommit 450b416056f551d7c174325d17cc53e630271e38[m
+Author: Mohammad Vaghar <mohammad.veghar.92@gmail.com>
+Date:   Mon Sep 4 01:57:11 2023 +0330
+
+    I deleted excess files
+
+[33mcommit d080f3d4687c65bd33415e8967ad9a470cc6f64c[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Mohammad Vaghar <mohammad.veghar.92@gmail.com>
+Date:   Mon Sep 4 01:31:29 2023 +0330
+
+    I created my first project that is a store like Digikala
+
+[33mcommit 4442b50de90e1a994923125a642f7dabeb89f88c[m
+Author: mohammad veghar <mohammad.veghar.92@gmail.com>
+Date:   Sun Aug 20 01:12:12 2023 +0330
+
+    Initialize project using Create React App
